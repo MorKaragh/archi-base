@@ -3,9 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-851efba5a1114fba91409a45f5dcda93">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-ba9ba914a477407288729e8f3763b435.xml#id-ba9ba914a477407288729e8f3763b435"/>
-  <target
       xsi:type="archimate:TechnologyService"
-      href="TechnologyService_id-f00ee7799db549aa96c8834e249fd470.xml#id-f00ee7799db549aa96c8834e249fd470"/>
+      href="TechnologyService_id-a28cd701fb9343c98d454f7ce8e32e6e.xml#id-a28cd701fb9343c98d454f7ce8e32e6e"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-75334adc77994421908db6c4472da3fa.xml#id-75334adc77994421908db6c4472da3fa"/>
 </archimate:TriggeringRelationship>
